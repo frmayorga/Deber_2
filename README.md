@@ -95,7 +95,24 @@ Calculamos el voltaje con la ley de ohm:
 
 Obteniendo que la fuente produce un voltaje de 81 voltios.
 
-### 
+### 31) En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
+
+![image](https://user-images.githubusercontent.com/93361435/141691380-910d6e7e-b244-48e3-950b-28fa00510b1a.png)
+
+Usamos la ley de ohm despejando la resistencia y la calculamos con los valores que tenemos: 
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;R&space;=&space;\frac{V}{I}&space;=&space;\frac{120&space;V}{0.8&space;A}&space;=&space;150&space;\Omega&space;" title="\bg_black \inline R = \frac{V}{I} = \frac{120 V}{0.8 A} = 150 \Omega " />
+
+Obteniendo 150 ohmios como resultado.
+
+### 37) Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha
+
+![image](https://user-images.githubusercontent.com/93361435/141692206-b8359b0a-321f-4d3b-b2ad-3ce077f2157b.png)
+
+Como nos dice el metodo debemos dividir la cantidad a la mitad y medir la resistencia por hileras, la primera mitad estaria con el valor correcto por y la segunda nos daria un valor infinito de nuevo dividimos la hilera con el valor erroneo a la mitad y volvemos a hacer el mismo proceso, nos tomaria **5** mediciones encontrar el foco fundido. 
+
+## CAPITULO 4
+
 
 # VIDEO
 
