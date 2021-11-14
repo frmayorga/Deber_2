@@ -12,6 +12,14 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 # MARCO TEORICO
 
+
+### CAPITULO 4
+
+
+**PARTE 2**
+
+![resumen cap4 - parte 2](https://user-images.githubusercontent.com/93361435/141696077-c23f6bc3-3a6d-4060-afb1-20cac4d751c5.jpg)
+
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ## EJERCICIOS IMPARES
@@ -112,6 +120,55 @@ Obteniendo 150 ohmios como resultado.
 Como nos dice el metodo debemos dividir la cantidad a la mitad y medir la resistencia por hileras, la primera mitad estaria con el valor correcto por y la segunda nos daria un valor infinito de nuevo dividimos la hilera con el valor erroneo a la mitad y volvemos a hacer el mismo proceso, nos tomaria **5** mediciones encontrar el foco fundido. 
 
 ## CAPITULO 4
+
+### 3) ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
+
+Al utilizar la formula de potencia encontramos que la potencia es de 350 watts.
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;P&space;=&space;\frac{W}{t}&space;=&space;\frac{350&space;J}{1&space;s}&space;=&space;350&space;W" title="\bg_black \inline P = \frac{W}{t} = \frac{350 J}{1 s} = 350 W" />
+
+### 9) Convierta las siguientes cantidades en microwatts:
+
+Usamos los prefijos metricos con sus respectivas potencias de 10 en micro corresponde a 10^(-6)
+
+(a) 2 W 
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;2&space;W&space;=&space;2000000&space;\mu&space;W" title="\bg_black \inline 2 W = 2000000 \mu W" />
+
+(b) 0.0005 W 
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;0.0005&space;W&space;=&space;500&space;\mu&space;W" title="\bg_black \inline 0.0005 W = 500 \mu W" />
+
+(c) 0.25 mW (
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;0.25&space;mW&space;=&space;250&space;\mu&space;W" title="\bg_black \inline 0.25 mW = 250 \mu W" />
+
+d) 0.00667 mW
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;0.00667&space;mW&space;=&space;6.67&space;\mu&space;W" title="\bg_black \inline 0.00667 mW = 6.67 \mu W" />
+
+### 15) Convierta 6700 watts-segundos en kWh
+
+Utilizamos la formula de potencia y seguido de ello utlizamos una regla de tres para convertir las unidades
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;W&space;=&space;P*t&space;=(6700&space;W)\times&space;(1s)\times&space;\frac{1&space;kW}{1000&space;W}&space;\times&space;\frac{1h}{3600&space;s}&space;=&space;0.00186&space;\&space;kWh" title="\bg_black \inline W = P*t =(6700 W)\times (1s)\times \frac{1 kW}{1000 W} \times \frac{1h}{3600 s} = 0.00186 \ kWh" />
+
+### 21) Calcule la potencia disipada por un resistor de 10 kilo-ohmios que transporta 100 microAmperios.
+
+Usamos la formula de la potencia: 
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;P&space;=&space;I^{2}R&space;=&space;(100\mu&space;A)^{2}&space;\times&space;(10k\Omega&space;)&space;=&space;1&space;\times&space;10^{-4}&space;W&space;=&space;100&space;\mu&space;W" title="\bg_black \inline P = I^{2}R = (100\mu A)^{2} \times (10k\Omega ) = 1 \times 10^{-4} W = 100 \mu W" />
+
+### 27) Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
+
+Se deberia usar la clasificacion de 12 watts ya que se debe usar una potencia nominal mas grande de la dada. 
+
+### 33) ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
+
+Simplemente utilizamos una regla de 3 simple y obtenemos que la corriente es de 8 Amperios:
+
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;I&space;=&space;\frac{80Ah}{10h}&space;=&space;8&space;A" title="\bg_black \inline I = \frac{80Ah}{10h} = 8 A" />
+
 
 
 # VIDEO
