@@ -8,6 +8,8 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 ## OBJETIVO GENERAL 
 
+- analizar como funciona la ley ohm y su uso en circuitos electricos, ademas de que comprendamos la relacion existente entre voltaje, corriente y resistencia. al mismo tiempo tener un entendimiento claro de la ley de watt y las fuentes de potencia mediante el estudio de la potencia y la energia.   
+
 ## OBJETIVOS ESPECIFICOS
 
 # MARCO TEORICO
@@ -289,5 +291,7 @@ Simplemente utilizamos una regla de 3 simple y obtenemos que la corriente es de 
 # VIDEO
 
 # CONCLUSIONES
+
+- es de suma importancia utilizar una potencia nominal mas grande que la existente, de esta manera evitamos que se quemen los resistores u otras fallas en los circuitos.
 
 # BIBLIOGRAFIA
