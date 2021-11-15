@@ -139,7 +139,6 @@ Obteniendo que la corriente vale 0.53 miliAmperios
 - como se puede notar la corriente esta muy por encima de la corriente soportada por el fusible de modo que no soportara esta corriente y se fundira
 
 
-
 ### 25)  Se leen tres amperes de corriente a través de un resistor de 27 ohmios conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?
 
 Calculamos el voltaje con la ley de ohm: 
@@ -147,6 +146,26 @@ Calculamos el voltaje con la ley de ohm:
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;V&space;=&space;IR&space;=&space;(3A)(27\Omega&space;)=&space;81V" title="\bg_black \inline V = IR = (3A)(27\Omega )= 81V" />
 
 Obteniendo que la fuente produce un voltaje de 81 voltios.
+
+
+### 27) Se conecta una fuente de 6 V a un resistor de 100  mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100. Determine lo siguiente:
+
+#### a) corriente  
+- en primer lugar calculamos la resistencia total usando su resistividad y area de seccion transversal:  
+la resistencia de cada alambre es:  
+![image](https://user-images.githubusercontent.com/93398718/141732566-0c63fa6c-3e56-4a76-b2f5-f796ffa16e22.png)  
+- ahora la resistencia total es la siguiente:  
+![image](https://user-images.githubusercontent.com/93398718/141732876-9bf13ff1-6d6a-41b1-aaff-b9aba75de9fb.png)  
+de modo que la corriente es la siguiente:  
+![image](https://user-images.githubusercontent.com/93398718/141733152-bab6ff7a-f798-4a33-9017-976fa3feea06.png)  
+
+#### b) caida de voltaje en el resistor    
+![image](https://user-images.githubusercontent.com/93398718/141733605-2cb8e99f-89c5-46f7-9375-669d596c054e.png)
+
+#### c)  Caída de voltaje a través de cada tramo de alambre
+![image](https://user-images.githubusercontent.com/93398718/141733913-b8ac491b-bd84-4844-8c35-bfb3479d0996.png)
+
+
 
 ### 31) En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
 
@@ -157,6 +176,18 @@ Usamos la ley de ohm despejando la resistencia y la calculamos con los valores q
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;R&space;=&space;\frac{V}{I}&space;=&space;\frac{120&space;V}{0.8&space;A}&space;=&space;150&space;\Omega&space;" title="\bg_black \inline R = \frac{V}{I} = \frac{120 V}{0.8 A} = 150 \Omega " />
 
 Obteniendo 150 ohmios como resultado.
+
+
+### 33) Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia deeste ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?
+
+![image](https://user-images.githubusercontent.com/93398718/141734152-aa98ca64-e021-4d63-b984-3d62a55be2e3.png)
+
+- cuando la corriente es 750mA la resistencia es la siguiente:    
+![image](https://user-images.githubusercontent.com/93398718/141734663-1656a2c1-b245-44ca-9912-88c31fbb678d.png)  
+- para que la corriente sea de 1A la resistencia debe ser la siguiente:  
+![image](https://user-images.githubusercontent.com/93398718/141734893-74178257-623b-492c-9014-ed04d8030109.png)
+- el problema es que a medida que aumentemos la corriente el valor de la resistencia debe disminuir de modo que no se podran alcanzar valores muy altos de corriente.
+
 
 ### 37) Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha
 
