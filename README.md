@@ -43,6 +43,11 @@ La corriente se reduce al 75%
 
 La corriente disminuye a la mitad
 
+
+### 3) Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
+
+- la formula es v=IxR
+
 ### 7) La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1,
 R2 y R3.
 
@@ -67,6 +72,18 @@ PAR ORDENADO (3V, 3A)
 PAR ORDENADO (2V, 1A)
 
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;R_3&space;=&space;\frac{V}{I}=&space;\frac{2V}{1A}&space;=&space;2\Omega&space;" title="\bg_black \inline R_3 = \frac{V}{I}= \frac{2V}{1A} = 2\Omega " />
+
+
+
+### 9) Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde,gris, café, rojo.
+
+el valor de la resistencia es:  
+![image](https://user-images.githubusercontent.com/93398718/141725838-c38002d9-bb21-4618-9e89-2a4daaa676f3.png) que es igual a 1.58 kilo ohmns  
+- la siguiente tabla nos muestra los calculos realizados:  
+![image](https://user-images.githubusercontent.com/93398718/141727029-6b9f40f6-4c61-463d-bf34-5b7922cca761.png)   
+su grafica indica que la relacion entre voltaje y corriente es lineal.    
+![image](https://user-images.githubusercontent.com/93398718/141727620-fad355a0-f191-4050-a481-cce682cea647.png)
+
 
 ### 13) Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
 
