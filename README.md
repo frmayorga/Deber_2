@@ -105,6 +105,22 @@ Para trazar la grafica debemos calcular la corriente con la ley de ohm utilizand
 
 ![LITERAL D](https://user-images.githubusercontent.com/93361435/141663965-77988999-f00c-43ad-9cf6-9e5e33359b4d.png)
 
+
+
+### 15) Determine la corriente en cada caso:
+
+![image](https://user-images.githubusercontent.com/93398718/141727850-d2deb592-41b1-41ca-9c3b-076552582180.png)  
+![image](https://user-images.githubusercontent.com/93398718/141728038-568bad73-d138-4f62-a28e-0925964f9244.png)  
+![image](https://user-images.githubusercontent.com/93398718/141728158-e54de0b1-415d-4169-b2ff-f2cee9cf9d9c.png)  
+![image](https://user-images.githubusercontent.com/93398718/141728269-2803a689-a1cf-4189-8c3e-588f924e0f3c.png)  
+ ![image](https://user-images.githubusercontent.com/93398718/141728471-846a2dfd-c71d-4651-ae60-e59287c7b858.png)  
+![image](https://user-images.githubusercontent.com/93398718/141728525-2591b90c-721d-4847-b525-b5e31f23445e.png)    
+![image](https://user-images.githubusercontent.com/93398718/141728796-c676c87d-6fe3-434d-9f9e-a95b1a227cca.png)  
+![image](https://user-images.githubusercontent.com/93398718/141728919-ab09de53-1ddd-4c78-a07f-05dcdbd309c8.png)  
+![image](https://user-images.githubusercontent.com/93398718/141729024-1c3abdb1-7d67-4130-95a0-88a8d11d2fe1.png)  
+![image](https://user-images.githubusercontent.com/93398718/141729176-ee6cd2db-e2ad-4836-a269-1149c089916f.png)
+
+
 ### 19) Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.
 
 Primero determinamos el valor de la resistencia con el codigo de 4 bandas, el primer digito corresponde a 4 (amarillo), el segundo 7 (violeta), el multiplicador es de x1000 (Naranja) y la tolerancia +- 10% (Plata). Siendo la resistencia 47000 ohmios o 47 kilo-ohmios.
@@ -114,6 +130,15 @@ Despues calculamos el voltaje con la ley de ohm:
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;I&space;=&space;\frac{V}{R}=&space;\frac{25V}{47000\Omega&space;}&space;=&space;0.53mA" title="\bg_black \inline I = \frac{V}{R}= \frac{25V}{47000\Omega } = 0.53mA" />
 
 Obteniendo que la corriente vale 0.53 miliAmperios
+
+
+### 21) . Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.
+
+- primero se procede a realizar los calculos:  
+![image](https://user-images.githubusercontent.com/93398718/141729974-0722c81d-49ea-434e-8069-345302f8f4ca.png)
+- como se puede notar la corriente esta muy por encima de la corriente soportada por el fusible de modo que no soportara esta corriente y se fundira
+
+
 
 ### 25)  Se leen tres amperes de corriente a través de un resistor de 27 ohmios conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?
 
