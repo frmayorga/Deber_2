@@ -14,6 +14,8 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 ### CAPITULO 3
 ![](https://github.com/frmayorga/Deber_2/blob/main/capitulo%203%20resumen.jpg)
+
+![](https://github.com/frmayorga/Deber_2/blob/main/fallas.jpg)
 ### CAPITULO 4
 
 
