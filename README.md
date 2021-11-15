@@ -12,7 +12,8 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 # MARCO TEORICO
 
-
+### CAPITULO 3
+![](https://github.com/frmayorga/Deber_2/blob/main/capitulo%203%20resumen.jpg)
 ### CAPITULO 4
 
 
