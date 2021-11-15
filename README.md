@@ -203,6 +203,12 @@ Al utilizar la formula de potencia encontramos que la potencia es de 350 watts.
 
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;P&space;=&space;\frac{W}{t}&space;=&space;\frac{350&space;J}{1&space;s}&space;=&space;350&space;W" title="\bg_black \inline P = \frac{W}{t} = \frac{350 J}{1 s} = 350 W" />
 
+
+### 5) ¿A cuántos watts equivalen 1000 J en 50 ms?
+
+![image](https://user-images.githubusercontent.com/93398718/141855526-a25b3397-0e26-48ec-b47b-7f4dd41fed93.png)
+
+
 ### 9) Convierta las siguientes cantidades en microwatts:
 
 Usamos los prefijos metricos con sus respectivas potencias de 10 en micro corresponde a 10^(-6)
@@ -223,17 +229,39 @@ d) 0.00667 mW
 
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;0.00667&space;mW&space;=&space;6.67&space;\mu&space;W" title="\bg_black \inline 0.00667 mW = 6.67 \mu W" />
 
+
+### 11) Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?
+
+- para la resolucion de este ejercicio es necesario utilizar la formula de la potencia, de modo que despejando obtenemos una relacion que nos permite calcular la energia.  
+![image](https://user-images.githubusercontent.com/93398718/141856271-b4ffd412-b9a2-49ea-bcbe-b5ef2609164f.png)
+
+
 ### 15) Convierta 6700 watts-segundos en kWh
 
 Utilizamos la formula de potencia y seguido de ello utlizamos una regla de tres para convertir las unidades
 
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;W&space;=&space;P*t&space;=(6700&space;W)\times&space;(1s)\times&space;\frac{1&space;kW}{1000&space;W}&space;\times&space;\frac{1h}{3600&space;s}&space;=&space;0.00186&space;\&space;kWh" title="\bg_black \inline W = P*t =(6700 W)\times (1s)\times \frac{1 kW}{1000 W} \times \frac{1h}{3600 s} = 0.00186 \ kWh" />
 
+
+### 17) Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
+
+- usamos la relacion de potencias para circuitos electricos, calculando en primer lugar el valor de la potencia y luego la resistencia.
+![image](https://user-images.githubusercontent.com/93398718/141857973-59398888-a81a-4793-95bd-a33f79173462.png)
+
+
 ### 21) Calcule la potencia disipada por un resistor de 10 kilo-ohmios que transporta 100 microAmperios.
 
 Usamos la formula de la potencia: 
 
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;P&space;=&space;I^{2}R&space;=&space;(100\mu&space;A)^{2}&space;\times&space;(10k\Omega&space;)&space;=&space;1&space;\times&space;10^{-4}&space;W&space;=&space;100&space;\mu&space;W" title="\bg_black \inline P = I^{2}R = (100\mu A)^{2} \times (10k\Omega ) = 1 \times 10^{-4} W = 100 \mu W" />
+
+
+### 23) Se conecta un resistor de 56 Æ entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?
+
+- procedemos a encontrar el valor de la potencia:  
+ ![image](https://user-images.githubusercontent.com/93398718/141859448-2b8fd183-4025-4872-9d45-263b943e79db.png)  
+ - el resistor disipa 0,045 watts de potencia.
+
 
 ### 27) Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
 
