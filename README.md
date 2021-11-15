@@ -166,7 +166,6 @@ de modo que la corriente es la siguiente:
 ![image](https://user-images.githubusercontent.com/93398718/141733913-b8ac491b-bd84-4844-8c35-bfb3479d0996.png)
 
 
-
 ### 31) En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
 
 ![image](https://user-images.githubusercontent.com/93361435/141691380-910d6e7e-b244-48e3-950b-28fa00510b1a.png)
@@ -267,12 +266,24 @@ Usamos la formula de la potencia:
 
 Se deberia usar la clasificacion de 12 watts ya que se debe usar una potencia nominal mas grande de la dada. 
 
+
+### 29) . Una carga de 50 Æ utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?
+
+- usamos la formula de la potencia de modo que la respuesta es la siguiente:  
+![image](https://user-images.githubusercontent.com/93398718/141861798-419cf9d1-a90b-4e98-aa55-d63bb37ada19.png)
+
+
 ### 33) ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
 
 Simplemente utilizamos una regla de 3 simple y obtenemos que la corriente es de 8 Amperios:
 
 <img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_black&space;\inline&space;I&space;=&space;\frac{80Ah}{10h}&space;=&space;8&space;A" title="\bg_black \inline I = \frac{80Ah}{10h} = 8 A" />
 
+### 35) Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia?
+
+- la potencia perdida se calcula restando la potencia de salida a la potencia de entrada, en es caso es 500mW-400mW=100mW de modo que se pierden 100mW de potencia.
+- la eficiencia de la fuente es la siguiente:   
+![image](https://user-images.githubusercontent.com/93398718/141862984-a93eb8c1-0bbc-43c4-a3a1-8146ca16b9c0.png)
 
 
 # VIDEO
