@@ -12,6 +12,8 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 ## OBJETIVOS ESPECIFICOS
 
+- Distinguir la diferencia de la relacion de corriente-voltaje y corriente-resistencia
+
 # MARCO TEORICO
 
 ### CAPITULO 3
@@ -294,4 +296,8 @@ Simplemente utilizamos una regla de 3 simple y obtenemos que la corriente es de 
 
 - es de suma importancia utilizar una potencia nominal mas grande que la existente, de esta manera evitamos que se quemen los resistores u otras fallas en los circuitos.
 
+- En la ley de ohm podemos ver la diferencia entre magnitudes, en la relacion corriente voltaje es lineal, ya que si una aumenta la siguiente tambien, la relacion entre corriente resistencia es inversa, si una aumenta la otra disminuye.
+
 # BIBLIOGRAFIA
+
+Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Mexico. Editorial Pearson.
