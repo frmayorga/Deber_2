@@ -22,6 +22,9 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 ![](https://github.com/frmayorga/Deber_2/blob/main/fallas.jpg)
 ### CAPITULO 4
 
+**PARTE 1**
+
+![energia y potencia cap 4 par 1](https://user-images.githubusercontent.com/93561706/142098670-a05ac381-4d1f-4f56-a0be-9ac558871c31.jpeg)
 
 **PARTE 2**
 
