@@ -363,7 +363,7 @@ Se deberia usar la clasificacion de 12 watts ya que se debe usar una potencia no
 
 ### 31) ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
 
-Primero tomamos en cuenta todos los datos que nos dan y aplicaos la Ley de Watts para calcular el valor de la potencia, luego hacemosel despeje drespectivo para encontrar la enerjia en joules a partir de la potencia.
+Primero tomamos en cuenta todos los datos que nos dan y aplicaos la Ley de Watts para calcular el valor de la potencia, luego hacemosel despeje respectivo para encontrar la enerjia en joules a partir de la potencia.
 
 ![image](https://user-images.githubusercontent.com/93561706/142359581-0e2bde49-c365-4f5f-940a-ea23dc6b4754.png)
 
@@ -382,7 +382,7 @@ Simplemente utilizamos una regla de 3 simple y obtenemos que la corriente es de 
 
 ### 37) Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
 
-Primero tomamos en cuenta todos los datos que nos dan y aplicaos la eficiencia de una fuente de potencia para calcular el valor de la potencia de salida, luego hacemosel despeje drespectivo para encontrar la enerjia en joules a partir de la potencia.
+Primero tomamos en cuenta todos los datos que nos dan y aplicaos la eficiencia de una fuente de potencia para calcular el valor de la potencia de entrada, luego aplicamos la formula de la potencia en un periodo para asi encontra  el valor de potnecia en kWh.
 
 ![image](https://user-images.githubusercontent.com/93561706/142362799-358e0c06-eff9-4cea-802a-4bcea6e3af6e.png)
 
