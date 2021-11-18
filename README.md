@@ -196,6 +196,7 @@ de modo que la corriente es la siguiente:
 
 ### 29) Calcule la resistencia de un reóstato para cada juego de valores de V e I:
 
+![image](https://user-images.githubusercontent.com/93561706/142357290-57fefd47-91b1-473c-a85c-beb9a320844e.png)
 
 
 ### 31) En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
@@ -219,6 +220,10 @@ Obteniendo 150 ohmios como resultado.
 ![image](https://user-images.githubusercontent.com/93398718/141734893-74178257-623b-492c-9014-ed04d8030109.png)
 - el problema es que a medida que aumentemos la corriente el valor de la resistencia debe disminuir de modo que no se podran alcanzar valores muy altos de corriente.
 
+### 35) Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
+
+![image](https://user-images.githubusercontent.com/93561706/142357574-713b9771-75f8-496e-96e6-8a6a1ddd6314.png)
+
 
 ### 37) Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha
 
@@ -227,6 +232,11 @@ Obteniendo 150 ohmios como resultado.
 Como nos dice el metodo debemos dividir la cantidad a la mitad y medir la resistencia por hileras, la primera mitad estaria con el valor correcto por y la segunda nos daria un valor infinito de nuevo dividimos la hilera con el valor erroneo a la mitad y volvemos a hacer el mismo proceso, nos tomaria **5** mediciones encontrar el foco fundido. 
 
 ## CAPITULO 4
+
+### 1)	Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.
+
+![image](https://user-images.githubusercontent.com/93561706/142357649-bda7e894-957e-40a0-8a81-2dc13c8aab48.png)
+
 
 ### 3) ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
 
@@ -238,6 +248,10 @@ Al utilizar la formula de potencia encontramos que la potencia es de 350 watts.
 ### 5) ¿A cuántos watts equivalen 1000 J en 50 ms?
 
 ![image](https://user-images.githubusercontent.com/93398718/141855526-a25b3397-0e26-48ec-b47b-7f4dd41fed93.png)
+
+### 7)  Convierta las siguientes cantidades en megawatts:
+
+![image](https://user-images.githubusercontent.com/93561706/142357715-7dc6a53d-630f-47d8-ab1b-99e2814561da.png)
 
 
 ### 9) Convierta las siguientes cantidades en microwatts:
@@ -266,6 +280,11 @@ d) 0.00667 mW
 - para la resolucion de este ejercicio es necesario utilizar la formula de la potencia, de modo que despejando obtenemos una relacion que nos permite calcular la energia.  
 ![image](https://user-images.githubusercontent.com/93398718/141856271-b4ffd412-b9a2-49ea-bcbe-b5ef2609164f.png)
 
+### 13) Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
+
+![image](https://user-images.githubusercontent.com/93561706/142357982-06583bee-bfcb-4b4e-af97-35d7b44983f5.png)
+
+El promedio de kW consumidos por día es de 2.02kW. 
 
 ### 15) Convierta 6700 watts-segundos en kWh
 
@@ -278,6 +297,10 @@ Utilizamos la formula de potencia y seguido de ello utlizamos una regla de tres 
 
 - usamos la relacion de potencias para circuitos electricos, calculando en primer lugar el valor de la potencia y luego la resistencia.
 ![image](https://user-images.githubusercontent.com/93398718/141857973-59398888-a81a-4793-95bd-a33f79173462.png)
+
+### 19) Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
+
+![image](https://user-images.githubusercontent.com/93561706/142358081-e0b9963e-8ace-4b54-95cd-ce783f421301.png)
 
 
 ### 21) Calcule la potencia disipada por un resistor de 10 kilo-ohmios que transporta 100 microAmperios.
@@ -293,6 +316,17 @@ Usamos la formula de la potencia:
  ![image](https://user-images.githubusercontent.com/93398718/141859448-2b8fd183-4025-4872-9d45-263b943e79db.png)  
  - el resistor disipa 0,045 watts de potencia.
 
+### 25) Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Ω. 
+
+ a) ¿Cuánta energía se utiliza en dos minutos? 
+ 
+ ![image](https://user-images.githubusercontent.com/93561706/142358209-089283be-0c48-456a-b464-45fa835e7830.png)
+
+ La energía es de 0,48kWh.
+ 
+(b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
+
+La potencia en todo el intervalo sin el resistor es igual en todo el tiempo.
 
 ### 27) Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
 
