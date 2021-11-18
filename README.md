@@ -382,7 +382,7 @@ Simplemente utilizamos una regla de 3 simple y obtenemos que la corriente es de 
 
 ### 37) Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
 
-Primero tomamos en cuenta todos los datos que nos dan y aplicaos la Ley de Watts para calcular el valor de la potencia, luego hacemosel despeje drespectivo para encontrar la enerjia en joules a partir de la potencia.
+Primero tomamos en cuenta todos los datos que nos dan y aplicaos la eficiencia de una fuente de potencia para calcular el valor de la potencia de salida, luego hacemosel despeje drespectivo para encontrar la enerjia en joules a partir de la potencia.
 
 ![image](https://user-images.githubusercontent.com/93561706/142362799-358e0c06-eff9-4cea-802a-4bcea6e3af6e.png)
 
