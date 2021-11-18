@@ -55,6 +55,14 @@ La corriente disminuye a la mitad
 
 - la formula es v=IxR
 
+### 5) Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
+
+![image](https://user-images.githubusercontent.com/93561706/142356563-0f4c9c2f-0c5d-4f67-bfc7-8790a66b2d4e.png)
+
+En esencia la gráfica si es una línea recta ya que el voltaje es directamente proporcional a la corriente.
+La grafica indica el crecimiento progresivo de la corriente con respecto al voltaje y esto se debe a que las dos son directamente proporcionales entre sí. 
+
+
 ### 7) La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1,
 R2 y R3.
 
@@ -91,6 +99,11 @@ el valor de la resistencia es:
 su grafica indica que la relacion entre voltaje y corriente es lineal.    
 ![image](https://user-images.githubusercontent.com/93398718/141727620-fad355a0-f191-4050-a481-cce682cea647.png)
 
+### 11) Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
+
+![image](https://user-images.githubusercontent.com/93561706/142356684-174dacf5-80a6-479d-85af-8e5b6a29d737.png)
+
+El voltaje ha disminuido a 6 V, es decir que perdió 4 V.
 
 ### 13) Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
 
@@ -127,6 +140,11 @@ Para trazar la grafica debemos calcular la corriente con la ley de ohm utilizand
 ![image](https://user-images.githubusercontent.com/93398718/141729024-1c3abdb1-7d67-4130-95a0-88a8d11d2fe1.png)  
 ![image](https://user-images.githubusercontent.com/93398718/141729176-ee6cd2db-e2ad-4836-a269-1149c089916f.png)
 
+### 17) Se conecta un resistor de 10 Ω a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
+
+![image](https://user-images.githubusercontent.com/93561706/142356893-08c0b934-a979-4ac9-8acf-e9e2256da5eb.png)
+
+La corriente a través de la resistencia es de 1,2 Ω.
 
 ### 19) Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.
 
@@ -144,6 +162,10 @@ Obteniendo que la corriente vale 0.53 miliAmperios
 - primero se procede a realizar los calculos:  
 ![image](https://user-images.githubusercontent.com/93398718/141729974-0722c81d-49ea-434e-8069-345302f8f4ca.png)
 - como se puede notar la corriente esta muy por encima de la corriente soportada por el fusible de modo que no soportara esta corriente y se fundira
+
+### 23) Calcule el voltaje para cada valor de I y R
+
+![image](https://user-images.githubusercontent.com/93561706/142357056-e675df47-5518-4255-8111-23c72577bb96.png)
 
 
 ### 25)  Se leen tres amperes de corriente a través de un resistor de 27 ohmios conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?
@@ -171,6 +193,9 @@ de modo que la corriente es la siguiente:
 
 #### c)  Caída de voltaje a través de cada tramo de alambre
 ![image](https://user-images.githubusercontent.com/93398718/141733913-b8ac491b-bd84-4844-8c35-bfb3479d0996.png)
+
+### 29) Calcule la resistencia de un reóstato para cada juego de valores de V e I:
+
 
 
 ### 31) En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
