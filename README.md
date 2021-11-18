@@ -57,10 +57,14 @@ La corriente disminuye a la mitad
 
 ### 5) Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
 
+Primero tomamos en cuenta todos los datos que nos dan y aplicaos la Ley de Ohm para calcular los valoeres de las corrientes respectivas.
+
 ![image](https://user-images.githubusercontent.com/93561706/142356563-0f4c9c2f-0c5d-4f67-bfc7-8790a66b2d4e.png)
 
 En esencia la gráfica si es una línea recta ya que el voltaje es directamente proporcional a la corriente.
 La grafica indica el crecimiento progresivo de la corriente con respecto al voltaje y esto se debe a que las dos son directamente proporcionales entre sí. 
+
+
 
 
 ### 7) La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1,
@@ -100,6 +104,8 @@ su grafica indica que la relacion entre voltaje y corriente es lineal.
 ![image](https://user-images.githubusercontent.com/93398718/141727620-fad355a0-f191-4050-a481-cce682cea647.png)
 
 ### 11) Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
+
+Primero tomamos en cuenta todos los datos que nos dan y aplicaos la Ley de Ohm para calcular el valor de la resistencia y luego encontrar el valor del voltaje.
 
 ![image](https://user-images.githubusercontent.com/93561706/142356684-174dacf5-80a6-479d-85af-8e5b6a29d737.png)
 
@@ -142,9 +148,11 @@ Para trazar la grafica debemos calcular la corriente con la ley de ohm utilizand
 
 ### 17) Se conecta un resistor de 10 Ω a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
 
-![image](https://user-images.githubusercontent.com/93561706/142356893-08c0b934-a979-4ac9-8acf-e9e2256da5eb.png)
+Primero tomamos en cuenta todos los datos que nos dan y aplicaos la ley de Ohm para calcular la corriente respectiva.
 
-La corriente a través de la resistencia es de 1,2 Ω.
+![image](https://user-images.githubusercontent.com/93561706/142360666-89cd3d84-5352-4b2a-92f5-d11d2fb3ac4f.png)
+
+La corriente a través de la resistencia es de 1,2 A.
 
 ### 19) Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.
 
@@ -164,6 +172,8 @@ Obteniendo que la corriente vale 0.53 miliAmperios
 - como se puede notar la corriente esta muy por encima de la corriente soportada por el fusible de modo que no soportara esta corriente y se fundira
 
 ### 23) Calcule el voltaje para cada valor de I y R
+
+Primero tomamos en cuenta todos los datos que nos dan y aplicaos la Ley de Ohm para calcular los valoeres de los voltajes respectivas.
 
 ![image](https://user-images.githubusercontent.com/93561706/142357056-e675df47-5518-4255-8111-23c72577bb96.png)
 
@@ -196,6 +206,8 @@ de modo que la corriente es la siguiente:
 
 ### 29) Calcule la resistencia de un reóstato para cada juego de valores de V e I:
 
+Primero tomamos en cuenta todos los datos que nos dan y aplicaos la Ley de Ohm para calcular los valores de las resistencias respectivas.
+
 ![image](https://user-images.githubusercontent.com/93561706/142357290-57fefd47-91b1-473c-a85c-beb9a320844e.png)
 
 
@@ -222,6 +234,8 @@ Obteniendo 150 ohmios como resultado.
 
 ### 35) Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
 
+Primero tomamos en cuenta todos los datos que nos dan y aplicaos la Ley de Ohm para calcular el valor de la resistencia y luego pasamo a restar el otro valor que nos dan para si poder tener el valos minimo que se puede colocar.
+
 ![image](https://user-images.githubusercontent.com/93561706/142357574-713b9771-75f8-496e-96e6-8a6a1ddd6314.png)
 
 
@@ -234,6 +248,8 @@ Como nos dice el metodo debemos dividir la cantidad a la mitad y medir la resist
 ## CAPITULO 4
 
 ### 1)	Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.
+
+aplicamos losconocimientos de las equivalencias de unidades y a continuacion hacemos una multiplicacion para obtener las unidades equivalentes al watt.
 
 ![image](https://user-images.githubusercontent.com/93561706/142357649-bda7e894-957e-40a0-8a81-2dc13c8aab48.png)
 
@@ -250,6 +266,7 @@ Al utilizar la formula de potencia encontramos que la potencia es de 350 watts.
 ![image](https://user-images.githubusercontent.com/93398718/141855526-a25b3397-0e26-48ec-b47b-7f4dd41fed93.png)
 
 ### 7)  Convierta las siguientes cantidades en megawatts:
+Primero tomamos en cuenta todos los datos que nos dan y aplicaos los conocimientos de prefijos metricos para poder trasformar a lo que nos pide.
 
 ![image](https://user-images.githubusercontent.com/93561706/142357715-7dc6a53d-630f-47d8-ab1b-99e2814561da.png)
 
@@ -282,6 +299,8 @@ d) 0.00667 mW
 
 ### 13) Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
 
+Primero tomamos en cuenta todos los datos que nos dan y aplicaos la Ley de Watt para calcular el valores de la potencia.
+
 ![image](https://user-images.githubusercontent.com/93561706/142357982-06583bee-bfcb-4b4e-af97-35d7b44983f5.png)
 
 El promedio de kW consumidos por día es de 2.02kW. 
@@ -300,6 +319,8 @@ Utilizamos la formula de potencia y seguido de ello utlizamos una regla de tres 
 
 ### 19) Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
 
+Primero tomamos en cuenta todos los datos que nos dan y aplicaos la Ley de Watts para calcular el valor de la potencia respectiva.
+
 ![image](https://user-images.githubusercontent.com/93561706/142358081-e0b9963e-8ace-4b54-95cd-ce783f421301.png)
 
 
@@ -317,6 +338,8 @@ Usamos la formula de la potencia:
  - el resistor disipa 0,045 watts de potencia.
 
 ### 25) Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Ω. 
+
+Primero tomamos en cuenta todos los datos que nos dan y aplicaos la Ley de Watts para calcular los valores de la potencia y la potencia dentro de un periodo estos para el primer literal y asi nos podemos dar cuenta que la potencia en un periodo va hacer elmismo en todo el periodo esto nos ayudo para responder el segundo literal.
 
  a) ¿Cuánta energía se utiliza en dos minutos? 
  
@@ -340,6 +363,8 @@ Se deberia usar la clasificacion de 12 watts ya que se debe usar una potencia no
 
 ### 31) ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
 
+Primero tomamos en cuenta todos los datos que nos dan y aplicaos la Ley de Watts para calcular el valor de la potencia, luego hacemosel despeje drespectivo para encontrar la enerjia en joules a partir de la potencia.
+
 ![image](https://user-images.githubusercontent.com/93561706/142359581-0e2bde49-c365-4f5f-940a-ea23dc6b4754.png)
 
 
@@ -356,6 +381,10 @@ Simplemente utilizamos una regla de 3 simple y obtenemos que la corriente es de 
 ![image](https://user-images.githubusercontent.com/93398718/141862984-a93eb8c1-0bbc-43c4-a3a1-8146ca16b9c0.png)
 
 ### 37) Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
+
+Primero tomamos en cuenta todos los datos que nos dan y aplicaos la Ley de Watts para calcular el valor de la potencia, luego hacemosel despeje drespectivo para encontrar la enerjia en joules a partir de la potencia.
+
+![image](https://user-images.githubusercontent.com/93561706/142362799-358e0c06-eff9-4cea-802a-4bcea6e3af6e.png)
 
 
 # VIDEO
