@@ -384,7 +384,9 @@ Simplemente utilizamos una regla de 3 simple y obtenemos que la corriente es de 
 
 Primero tomamos en cuenta todos los datos que nos dan y aplicaos la eficiencia de una fuente de potencia para calcular el valor de la potencia de entrada, luego aplicamos la formula de la potencia en un periodo para asi encontra  el valor de potnecia en kWh.
 
-![image](https://user-images.githubusercontent.com/93561706/142362799-358e0c06-eff9-4cea-802a-4bcea6e3af6e.png)
+![image](https://user-images.githubusercontent.com/93561706/142365606-663d6b8b-196f-4633-86bf-a14e022e8790.png)
+![image](https://user-images.githubusercontent.com/93561706/142365523-380d7d35-fab2-497c-8332-b206a1f40524.png)
+
 
 
 # VIDEO
