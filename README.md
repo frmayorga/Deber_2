@@ -338,6 +338,10 @@ Se deberia usar la clasificacion de 12 watts ya que se debe usar una potencia no
 - usamos la formula de la potencia de modo que la respuesta es la siguiente:  
 ![image](https://user-images.githubusercontent.com/93398718/141861798-419cf9d1-a90b-4e98-aa55-d63bb37ada19.png)
 
+### 31) ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
+
+![image](https://user-images.githubusercontent.com/93561706/142359581-0e2bde49-c365-4f5f-940a-ea23dc6b4754.png)
+
 
 ### 33) ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
 
@@ -350,6 +354,8 @@ Simplemente utilizamos una regla de 3 simple y obtenemos que la corriente es de 
 - la potencia perdida se calcula restando la potencia de salida a la potencia de entrada, en es caso es 500mW-400mW=100mW de modo que se pierden 100mW de potencia.
 - la eficiencia de la fuente es la siguiente:   
 ![image](https://user-images.githubusercontent.com/93398718/141862984-a93eb8c1-0bbc-43c4-a3a1-8146ca16b9c0.png)
+
+### 37) Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
 
 
 # VIDEO
