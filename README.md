@@ -391,6 +391,8 @@ Primero tomamos en cuenta todos los datos que nos dan y aplicaos la eficiencia d
 
 # VIDEO
 
+https://youtu.be/aXiHDNv3aeQ 
+
 # CONCLUSIONES
 
 - es de suma importancia utilizar una potencia nominal mas grande que la existente, de esta manera evitamos que se quemen los resistores u otras fallas en los circuitos.
